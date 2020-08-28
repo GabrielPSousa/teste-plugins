@@ -6,3 +6,5 @@ var imageEditor = new tui.ImageEditor('#my-image-editor canvas', {
 
 // Load image
 imageEditor.loadImageFromURL('https://picsum.photos/500', 'My sample image')
+
+var novabranch = 'OK';
